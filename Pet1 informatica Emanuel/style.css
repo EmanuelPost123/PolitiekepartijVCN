@@ -1,0 +1,100 @@
+#menu li {
+  display: inline-block;
+  background-color: whitesmoke;
+  border: 2px solid yellow;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#menu li:hover {
+  background-color: cyan;
+}
+
+#menu {
+  text-align: center;
+  margin: 7px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  text-align: center;
+}
+
+article {
+  border: 3px solid yellow;
+  border-radius: 15px;
+  background-color: rgba(255, 0, 0, 0.9);
+  margin: 20px
+}
+
+#bodyhome {
+  background: url(https://cdn.nos.nl/image/2021/03/30/728432/1024x576a.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#bodypagina1 {
+  background-color: rgb(247, 247, 232);
+}
+
+#bodypagina1 img {
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#bodypagina2 {
+  background-image: url(https://image.kurier.at/images/cfs_landscape_616w_347h/1795640/46-52636549.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#bodypagina2 article {
+  text-align: left;
+  padding: 15px;
+}
+
+#bodypagina2 table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+#bodypagina2 td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+#bodypagina2 th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+#bodypagina3 {
+  background-image: url(https://www.scriptium.nl/wp-content/uploads/2020/09/plan-van-aanpak-nakijken-afbeelding-1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#bodypagina3 article {
+  text-align: left;
+  margin: 30px;
+  padding: 10px;
+}
+
+#bodypagina3 h3 {
+  text-align: center;
+}
+
+#plaatje1 {
+  width: 100px;
+  float: right;
+}
+
+#plaatje2 {
+  width: 200px;
+  float: right;
+}
